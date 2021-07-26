@@ -7,3 +7,5 @@ majd commit to main <br>
 majd push origin<br>
 <br>
 most a githubon irom ezt<br>
+<br>
+majd ezt a visualban<br>
