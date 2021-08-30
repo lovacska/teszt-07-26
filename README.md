@@ -5,6 +5,7 @@ szoveg hogy megy a gitbe? <br>
 3. commit to main <br>
 4. push origin<br>
 <br>
-most a githubon irom ezt<br>
-itt "commit changes" kell<br>
-majd GH desktopon "fetch", aztan "pull origin"
+git-bol visual code-ba:<br>
+1. commit changes<br>
+2. GH desktopon "fetch"<br>
+3. aztan "pull origin"<br>
