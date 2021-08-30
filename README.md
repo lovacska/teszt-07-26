@@ -8,6 +8,3 @@ majd push origin<br>
 most a githubon irom ezt<br>
 itt "commit changes" kell<br>
 majd GH desktopon "fetch", aztan "pull origin"
-majd ezt a visualban<br>
-meg valami<br>
-meg meg
