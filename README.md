@@ -1,12 +1,12 @@
 # teszt-07-26
 visual code-bol gitbe:<br>
-elmented visual codeban <br>
-GH desktopon "fetch"<br>
-"commit to main"<br>
-"push origin"<br>
+1. elmented visual codeban <br>
+2. GH desktopon "fetch"<br>
+3. "commit to main"<br>
+4. "push origin"<br>
 <br>
 git-bol visual code-ba:<br>
-"commit changes"<br>
-GH desktopon "fetch"<br>
-"pull origin"<br>
+1. "commit changes"<br>
+2. GH desktopon "fetch"<br>
+3. "pull origin"<br>
 <br>
