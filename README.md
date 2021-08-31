@@ -10,3 +10,4 @@ git-bol visual code-ba:<br>
 2. GH desktopon "fetch"<br>
 3. "pull origin"<br>
 <br>
+Tehat a GH desktop a kapcsolatot tartja
